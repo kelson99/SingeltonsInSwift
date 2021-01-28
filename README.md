@@ -1,1 +1,1 @@
-# SingeltonsInSwift
+# Example of Singletons in Swift
